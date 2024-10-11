@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LidyaEjigu/Portfolio_web/static/css/main.f826e2af.css",
+    "main.js": "/LidyaEjigu/Portfolio_web/static/js/main.81ea5dd2.js",
+    "static/media/IMG1.avif": "/LidyaEjigu/Portfolio_web/static/media/IMG1.5335c9e94f766f83bb31.avif",
+    "static/media/image4.jpg": "/LidyaEjigu/Portfolio_web/static/media/image4.364184a9e9c359f0fe25.jpg",
+    "static/media/IMG5.webp": "/LidyaEjigu/Portfolio_web/static/media/IMG5.b546758eec6988325eeb.webp",
+    "static/media/IMG2.jpg": "/LidyaEjigu/Portfolio_web/static/media/IMG2.f8befe5689dce93f54f0.jpg",
+    "static/media/IMG3.webp": "/LidyaEjigu/Portfolio_web/static/media/IMG3.c1a2d399631039bd6d07.webp",
+    "static/media/logo.svg": "/LidyaEjigu/Portfolio_web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LidyaEjigu/Portfolio_web/index.html",
+    "main.f826e2af.css.map": "/LidyaEjigu/Portfolio_web/static/css/main.f826e2af.css.map",
+    "main.81ea5dd2.js.map": "/LidyaEjigu/Portfolio_web/static/js/main.81ea5dd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f826e2af.css",
+    "static/js/main.81ea5dd2.js"
+  ]
+}
